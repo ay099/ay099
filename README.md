@@ -1,5 +1,4 @@
 ### Hi, I'm Ayomide.  👋
-### I love a ton of things which include anime, music and a new found love of cloud computing.
 
 <!--
 **ay099/ay099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
