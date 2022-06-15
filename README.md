@@ -45,7 +45,9 @@ The lock worked, Mission failed successfully 👌
 - I deleted the resource group lock and then deleted the resource group.
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/75920830/173908349-686f3556-83a1-4dc7-b213-7ec2c6ae383b.png)
+For the next couple of days I hope to continue to avoid interact with azure using the portal but instead with the cli and cloud shell.
 
-
-
+## JUNE 15, 2022: Is this how hackers feel? pt 2
+---
+Another way of interacting with Azure is using the cloud shell, this time I wanted to feel a bit more powerful lol and use the cloud shell on my phone. The azure mobile app offers a pocket size azure experience, It lets you monitor your resources, see metrics on those services and even receive push notifications like service health alerts. In addition to this one can use the app to manage resources using the azure cloud shell. I decided to do so but instead create a vm using this
 
